@@ -1,6 +1,6 @@
 {
   "name": "@yunflyjs/yunfly-plugin-response",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "yunfly response plugin.",
   "main": "./dist/sdk/index.js",
   "typings": "dist/sdk/index.d.ts",
