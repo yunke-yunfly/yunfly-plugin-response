@@ -9,12 +9,11 @@
   "license": "MIT",
   "keywords": [
     "yunfly plugin",
-    "prometheus"
+    "response"
   ],
   "scripts": {
     "build": "gts clean && tsc",
     "dev": "tsc --watch",
-    "prepublishOnly": "npm run build",
     "test": "umi-test",
     "test:watch": "umi-test --watch",
     "test:coverage": "umi-test --coverage",
